@@ -21,5 +21,6 @@ rm -rf /opt/miniconda/pkgs
 # Dependencies: cmake
 # wget --quiet https://github.com/Kitware/CMake/releases/download/v3.21.0/cmake-3.21.0-linux-x86_64.tar.gz
 wget https://cmake.org/files/v3.21/cmake-3.21.0-linux-x86_64.tar.gz --no-check-certificate
-tar zxf cmake-3.21.0-linux-x86_64.tar.gz
+# tar zxf cmake-3.21.0-linux-x86_64.tar.gz
+tar -zcvf cmake-3.21.0-linux-x86_64.tar.gz
 rm -rf cmake-3.21.0-linux-x86_64.tar.gz
