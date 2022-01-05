@@ -9,7 +9,7 @@
 	url = https://github.com/google/benchmark.git
 [submodule "cmake/external/onnx"]
 	path = cmake/external/onnx
-	url = https://github.com/onnx/onnx.git
+	url = git://github.com/onnx/onnx.git
 [submodule "cmake/external/tvm"]
 	path = cmake/external/tvm
 	url = https://github.com/microsoft/onnxruntime-tvm.git
@@ -18,7 +18,7 @@
 	url = https://github.com/HowardHinnant/date.git
 [submodule "cmake/external/nsync"]
 	path = cmake/external/nsync
-	url = https://github.com/google/nsync.git
+	url = git://github.com/google/nsync.git
 [submodule "cmake/external/re2"]
 	path = cmake/external/re2
 	url = https://github.com/google/re2.git
@@ -39,7 +39,7 @@
 	url = https://github.com/NVlabs/cub.git
 [submodule "cmake/external/wil"]
 	path = cmake/external/wil
-	url = https://github.com/microsoft/wil.git
+	url = git://github.com/microsoft/wil.git
 [submodule "cmake/external/json"]
 	path = cmake/external/json
 	url = https://github.com/nlohmann/json.git
@@ -64,7 +64,7 @@
 	url = https://github.com/apple/coremltools.git
 [submodule "cmake/external/dlpack"]
 	path = cmake/external/dlpack
-	url = https://github.com/dmlc/dlpack.git
+	url = git://github.com/dmlc/dlpack.git
 [submodule "cmake/external/emsdk"]
 	path = cmake/external/emsdk
 	url = https://github.com/emscripten-core/emsdk.git
